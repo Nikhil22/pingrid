@@ -18772,7 +18772,7 @@ module.exports = performanceNow;
  *
  * @providesModule shallowEqual
  * @typechecks
- * 
+ *
  */
 
 'use strict';
@@ -19882,7 +19882,7 @@ ReactDOM.render(React.createElement(Universe, null), document.getElementById('un
 
 },{"./components/Universe.jsx":174,"react":157,"react-dom":1}],176:[function(require,module,exports){
 var Fetch = require('whatwg-fetch');
-var baseUrl = 'http://localhost:8000';
+var baseUrl = 'http://pingrid.herokuapp.com';
 
 var service = {
     get: function (endpoint) {
