@@ -1,5 +1,5 @@
 var Fetch = require('whatwg-fetch');
-var baseUrl = 'http://localhost:8000';
+var baseUrl = 'http://pingrid.herokuapp.com';
 
 var service = {
     get: function(endpoint) {
