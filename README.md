@@ -1,39 +1,43 @@
-# node-js-getting-started
+<h1>Pingrid</h1>
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+<h2>What is it?</h2>
 
-This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
+<ol>
+  <li>A responsive Pinterest style grid UI for your apps</li>
+  <li>Filter your content</li>
+</ol>
 
-## Running Locally
+<h2>Desktop</h2>
+![alt tag](https://github.com/Nikhil22/pingrid/blob/master/public/img/pindesktop.png)
 
-Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
+<h2>Mobile</h2>
+![alt tag](https://github.com/Nikhil22/pingrid/blob/master/public/img/pinmobile.png)
 
-```sh
-$ git clone git@github.com:heroku/node-js-getting-started.git # or clone your own fork
-$ cd node-js-getting-started
-$ npm install
-$ npm start
-```
 
-Your app should now be running on [localhost:5000](http://localhost:5000/).
+<h2>How to use</h2>
 
-## Deploying to Heroku
+<ol>
+  <li>Clone this repo & install all dependencies</li> <br>
+  <pre>cd pingrid</pre> <br>
+  <pre>npm install</pre> <br>
 
-```
-$ heroku create
-$ git push heroku master
-$ heroku open
-```
-or
+   <li>
+    Have 2 Terminal tabs open <br>
+    In the first tab, run <pre>npm start</pre> <br>
+    In the second tab, run <pre>nodemon server.js</pre>
+   </li> <br>
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+   <li>Head over to http://localhost:8000/</li> <br>
 
-## Documentation
+   <li>That's it! You can modify the content, and do whatever you want :). The main responsiveness comes from js/respond.js</li>
+ </ol>
 
-For more information about using Node.js on Heroku, see these Dev Center articles:
+<h2>Technologies used</h2>
 
-- [Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
-- [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
-- [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
-- [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
-- [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
+<ol>
+  <li>NodeJS</li>
+  <li>ReactJS</li>
+  <li>ExpressJS</li>
+  <li>Twitter Bootstrap</li>
+  <li>SemanticUI</li>
+</ol>
