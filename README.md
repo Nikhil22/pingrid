@@ -12,10 +12,14 @@
 http://pingrid.herokuapp.com/
 
 <h2>Desktop</h2>
-![alt tag](https://github.com/Nikhil22/pingrid/blob/master/public/img/pindesktop.png)
+<p>
+  <img src="https://github.com/Nikhil22/pingrid/blob/master/public/img/pindesktop.png" />
+</p>
 
 <h2>Mobile</h2>
-![alt tag](https://github.com/Nikhil22/pingrid/blob/master/public/img/pinmobile.png)
+<p>
+  <img src="https://github.com/Nikhil22/pingrid/blob/master/public/img/pinmobile.png" />
+</p>
 
 
 <h2>How to use</h2>
