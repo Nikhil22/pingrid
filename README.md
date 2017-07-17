@@ -7,10 +7,6 @@
   <li>Filter your content</li>
 </ol>
 
-<h2>Live link</h2>
-
-http://pingrid.herokuapp.com/
-
 <h2>Desktop</h2>
 <p>
   <img src="https://github.com/Nikhil22/pingrid/blob/master/public/img/pindesktop.png" />
